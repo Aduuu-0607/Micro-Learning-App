@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122928647071",
+    "project_id": "microlearning-hub",
+    "storage_bucket": "microlearning-hub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122928647071:android:020f771f1f7183794e0baa",
+        "android_client_info": {
+          "package_name": "com.example.microlearning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcK5j6gEDTQ4mZrYsNCOQcQL3AOvcczlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
